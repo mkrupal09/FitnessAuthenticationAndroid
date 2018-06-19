@@ -29,8 +29,8 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
-                    android:host="wwww.hiddenbrainsmagazine.net"
-                    android:scheme="dcfitbit" />
+                    android:host="wwww.myapp.net"
+                    android:scheme="myapp" />
             </intent-filter>
         </activity>
 
